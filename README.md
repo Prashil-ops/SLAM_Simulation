@@ -10,5 +10,5 @@ Move your mouse to control the sensor and see how obstacles are mapped dynamical
 
 \### 🎥 Project Demo
 
-https://github.com/prashil-ops/SLAM\_Simulation/blob/main/SLAM/github\_vdo.gif
+!\[SLAM Demonstration](./github\_vdo.gif)
 
