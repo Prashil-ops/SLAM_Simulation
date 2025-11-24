@@ -2,7 +2,7 @@
 
 
 
-This project simulates a \*\*2D laser sensor\*\* that detects obstacles and creates a \*\*point cloud map\*\* in real time using \*\*Python + Pygame\*\*.  
+This project simulates a \*\*2D laser sensor\*\* that detects obstacles and creates a \*\*point cloud map\*\* in real time using \*\*Python + Pygame\*\*.
 
 Move your mouse to control the sensor and see how obstacles are mapped dynamically!
 
@@ -10,7 +10,5 @@ Move your mouse to control the sensor and see how obstacles are mapped dynamical
 
 \### 🎥 Project Demo
 
-https://github.com/prashil-ops/SLAM\_Simulation/blob/main/SLAM/github\_vdo.mov
-
-
+https://github.com/prashil-ops/SLAM\_Simulation/blob/main/SLAM/github\_vdo.gif
 
